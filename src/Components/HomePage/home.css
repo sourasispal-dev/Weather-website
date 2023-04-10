@@ -1,0 +1,14 @@
+.title {
+	color: white;
+	text-align: center;
+	margin: 10vh;
+}
+
+.title h1 {
+	font-family: cursive;
+	font-weight: bold;
+
+	font-size: 40px;
+	-webkit-box-reflect: linear-gradient(transparent, rgba(29, 29, 29, 0.533));
+	animation: animate 5s linear infinite;
+}
